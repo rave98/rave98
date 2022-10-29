@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Cloud path'
+theme = "m10c"
+author = "Elia Ravella"
+description = "Master CS Student"
